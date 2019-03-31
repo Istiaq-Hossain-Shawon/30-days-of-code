@@ -10,3 +10,6 @@ Topics include if-else statements, recursion, data structures and more.
 - Day 1: Data Types. [Link](https://www.hackerrank.com/challenges/30-data-types/problem)
 - Day 2: Operators. [Link](https://www.hackerrank.com/challenges/30-operators/problem)
 - Day 3: Intro to Conditional Statements. [Link](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
+- Day 4: Operators. [Link](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
+- Day 5: Operators. [Link](https://www.hackerrank.com/challenges/30-loops/problem)
+- Day 6: Operators. [Link](https://www.hackerrank.com/challenges/30-review-loop/problem)

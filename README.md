@@ -15,6 +15,6 @@ Topics include if-else statements, recursion, data structures and more.
 - Day 6: Let's Review. [Link](https://www.hackerrank.com/challenges/30-review-loop/problem)
 - Day 7: Arrays. [Link](https://www.hackerrank.com/challenges/30-arrays/problem)
 - Day 8: Arrays. [Link](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
-
+- Day 9: Arrays. [Link](https://www.hackerrank.com/challenges/30-recursion/problem)
 
 
